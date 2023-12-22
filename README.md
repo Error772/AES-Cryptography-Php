@@ -42,4 +42,4 @@ echo 'Decrypted String : ' . $Decrypted . "<br/>";
 ```
 ---
 
-- ### **Telegram ID : [Ali_Cod7](https://T.me/Ali_Cod7)**
+- ### **Telegram ID : [Ali_Cod7](https://T.me/Error772)**
